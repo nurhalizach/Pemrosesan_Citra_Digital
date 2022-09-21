@@ -29,15 +29,15 @@ gambar yang akan kita gunakan adalah gambar dengan dimensi 32x32x3:
 **1. Citra RGB**
    
    Citra RGB merupakan citra digital yang mengandung matriks data berukuran M × N × 3 yang merepresentasikan warna merah, hijau, dan biru untuk setiap pikselnya. Setiap warna dasar diberi rentang nilai tersendiri. Nilai rentang paling kecil yaitu 0 dan paling besar yaitu 255. Warna dari tiap piksel ditentukan oleh kombinasi dari intensitas merah, hijau, dan biru. Berikut contoh Citra RGB dari sebuah gambar.
-   * Layer Red
+* Layer Red
         <p class="image">
             <img src="gambar/channelMerah.PNG">
         </p>
-    * Layer Green       
+* Layer Green       
         <p class="image">
         <img src="gambar/channelHijau.PNG">
         </p>
-    * Layer Blue
+* Layer Blue
         <p class="image">
         <img src="gambar/channelBiru.PNG">
         </p>
