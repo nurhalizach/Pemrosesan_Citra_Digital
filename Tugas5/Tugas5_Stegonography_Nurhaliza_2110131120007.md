@@ -19,7 +19,7 @@ Mata Kuliah : Pemrosesan Citra Digital
 
 ---
 
-### STEGANOGRAPHY
+### STEGONOGRAPHY
 
 1. PENGERTIAN
 
