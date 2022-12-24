@@ -19,6 +19,8 @@ Mata Kuliah : Pemrosesan Citra Digital
 
 ---
 
+####TUGAS 5 DAN 6
+
 ### BIT PLANE SLICING DAN STEGONOGRAPHY
 
 Bit Plane Slicing adalah sebuah metode untuk melihat kontribusi atau pengaruh dari tiap tiap bit penyusun citra. Salah satu aspek penggunaan Bit Plane Slicing adalah kita dapat menentukan apakah bidang bit merupakan noise tidak beraturan atau berisikan suatu informasi penting.
