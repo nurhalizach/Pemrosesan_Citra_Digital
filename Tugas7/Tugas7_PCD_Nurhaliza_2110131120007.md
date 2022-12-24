@@ -55,7 +55,7 @@ subplot(2,2,4); imshow(result3); title("Hasil Low Pass Filtering");
 
 <h3>Berikut hasil citra yang diperoleh:</h3>
 
-![output-1](gambar/LPF.PNG)
+![output-1](gambar/LPF.png)
 
 <h3>Dibawah ini merupakan code untuk Low Pass Filtering menggunakan metode manual:</h3>
 
@@ -104,7 +104,7 @@ subplot(1,2,2); imshow(imgxLPF); title("Hasil Low Pass Filtering");
 
 <h3>Berikut hasil citra yang diperoleh:</h3>
 
-![output-2](gambar/LPF-2.PNG)
+![output-2](gambar/LPF-2.png)
 
 
 ## High Pass Filtering
@@ -227,7 +227,7 @@ subplot(2,3,5); imshow(output2), title("Citra awal yang diberi Media filter");
 
 <h3>Berikut hasil citra yang diperoleh:</h3>
 
-![output-1](gambar/median-2.PNG)
+![output-1](gambar/median-2.png)
 
 <h3>Dibawah ini merupakan code untuk Median Filtering menggunakan metode manual:</h3>
 
@@ -274,7 +274,7 @@ subplot(1,3,3); imshow(new_img), title("Citra noise yang diberi Media Filter");
 
 <h3>Berikut hasil citra yang diperoleh:</h3>
 
-![output-2](gambar/median.PNG)
+![output-2](gambar/median.png)
 
 ## Edge Detection
 
@@ -284,7 +284,7 @@ subplot(1,3,3); imshow(new_img), title("Citra noise yang diberi Media Filter");
 
 Kernel filter yang digunakan dalam metode Sobel ini adalah:<br>
 
-![kernel sobel](gambar/kernelSobel.PNG)<br>
+![kernel sobel](gambar/kernelSobel.png)<br>
 </p>
 
 <p align = "justify">Algoritma Edge Detection Sobel<br>
@@ -304,23 +304,23 @@ Kernel filter yang digunakan dalam metode Sobel ini adalah:<br>
 <p align = "justify">
 
    1. Kode Program Manual <br>
-       ![Sobel](gambar/sobelManual1.PNG)<br>
-       ![Sobel](gambar/sobelManual2.PNG)<br>
+       ![Sobel](gambar/sobelManual1.png)<br>
+       ![Sobel](gambar/sobelManual2.png)<br>
 
        <h3>Output Kode Program</h3>
        
-       ![Output](gambar/sobelManual3.PNG)<br>
-       ![Output](gambar/sobelManual4.PNG)<br>
-       ![Output](gambar/sobelManual5.PNG)<br>
+       ![Output](gambar/sobelManual3.png)<br>
+       ![Output](gambar/sobelManual4.png)<br>
+       ![Output](gambar/sobelManual5.png)<br>
 
 <br>
 
    2. Kode Program yang Tersedia di Octave<br>
-       ![Sobel](gambar/sobelFungsi1.PNG)<br>
+       ![Sobel](gambar/sobelFungsi1.png)<br>
 
        <h3>Output Kode Program</h3>
 
-       ![Sobel](gambar/sobelFungsi2.PNG)<br>
+       ![Sobel](gambar/sobelFungsi2.png)<br>
 
 </p>
 
@@ -330,7 +330,7 @@ Kernel filter yang digunakan dalam metode Sobel ini adalah:<br>
 
 Kernel filter yang digunakan dalam metode Prewitt ini adalah:<br>
 
-![kernel Prewitt](gambar/kernelPrewitt.PNG)<br>
+![kernel Prewitt](gambar/kernelPrewitt.png)<br>
 </p>
 
 <p align = "justify">Algoritma Edge Detection Prewitt<br>
@@ -350,22 +350,22 @@ Kernel filter yang digunakan dalam metode Prewitt ini adalah:<br>
 <p align = "justify">
 
    1. Kode Program Manual <br>
-       ![Prewitt](gambar/prewittManual1.PNG)<br>
-       ![Prewitt](gambar/prewittManual2.PNG)<br>
+       ![Prewitt](gambar/prewittManual1.png)<br>
+       ![Prewitt](gambar/prewittManual2.png)<br>
 
        <h3>Output Kode Program</h3>
        
-       ![Output](gambar/prewittManual3.PNG)<br>
-       ![Output](gambar/prewittManual4.PNG)<br>
-       ![Output](gambar/prewittManual5.PNG)<br>
+       ![Output](gambar/prewittManual3.png)<br>
+       ![Output](gambar/prewittManual4.png)<br>
+       ![Output](gambar/prewittManual5.png)<br>
 
 <br>
 
    2. Kode Program yang Tersedia di Octave<br>
-       ![Prewitt](gambar/prewittFungsi1.PNG)<br>
+       ![Prewitt](gambar/prewittFungsi1.png)<br>
 
        <h3>Output Kode Program</h3>
 
-       ![Prewitt](gambar/prewittFungsi2.PNG)<br>
+       ![Prewitt](gambar/prewittFungsi2.png)<br>
 
 </p>
